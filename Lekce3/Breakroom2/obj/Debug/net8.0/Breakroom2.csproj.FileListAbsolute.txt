@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\Breakroom2\bin\Debug\net8.0\Breakroom2.exe
+C:\Users\S1eeper\source\repos\Breakroom2\bin\Debug\net8.0\Breakroom2.deps.json
+C:\Users\S1eeper\source\repos\Breakroom2\bin\Debug\net8.0\Breakroom2.runtimeconfig.json
+C:\Users\S1eeper\source\repos\Breakroom2\bin\Debug\net8.0\Breakroom2.dll
+C:\Users\S1eeper\source\repos\Breakroom2\bin\Debug\net8.0\Breakroom2.pdb
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.dll
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\refint\Breakroom2.dll
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.pdb
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\Breakroom2.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\Breakroom2\obj\Debug\net8.0\ref\Breakroom2.dll

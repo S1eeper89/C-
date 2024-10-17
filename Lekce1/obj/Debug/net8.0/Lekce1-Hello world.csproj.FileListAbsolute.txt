@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\Lekce1\bin\Debug\net8.0\Lekce1-Hello world.exe
+C:\Users\S1eeper\source\repos\Lekce1\bin\Debug\net8.0\Lekce1-Hello world.deps.json
+C:\Users\S1eeper\source\repos\Lekce1\bin\Debug\net8.0\Lekce1-Hello world.runtimeconfig.json
+C:\Users\S1eeper\source\repos\Lekce1\bin\Debug\net8.0\Lekce1-Hello world.dll
+C:\Users\S1eeper\source\repos\Lekce1\bin\Debug\net8.0\Lekce1-Hello world.pdb
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.dll
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\refint\Lekce1-Hello world.dll
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.pdb
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\Lekce1-Hello world.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\Lekce1\obj\Debug\net8.0\ref\Lekce1-Hello world.dll

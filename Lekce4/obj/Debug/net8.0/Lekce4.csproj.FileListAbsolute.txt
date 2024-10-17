@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\Lekce4\bin\Debug\net8.0\Lekce4.exe
+C:\Users\S1eeper\source\repos\Lekce4\bin\Debug\net8.0\Lekce4.deps.json
+C:\Users\S1eeper\source\repos\Lekce4\bin\Debug\net8.0\Lekce4.runtimeconfig.json
+C:\Users\S1eeper\source\repos\Lekce4\bin\Debug\net8.0\Lekce4.dll
+C:\Users\S1eeper\source\repos\Lekce4\bin\Debug\net8.0\Lekce4.pdb
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.dll
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\refint\Lekce4.dll
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.pdb
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\Lekce4.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\Lekce4\obj\Debug\net8.0\ref\Lekce4.dll

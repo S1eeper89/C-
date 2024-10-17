@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\Lekce test\bin\Debug\net8.0\Lekce test.exe
+C:\Users\S1eeper\source\repos\Lekce test\bin\Debug\net8.0\Lekce test.deps.json
+C:\Users\S1eeper\source\repos\Lekce test\bin\Debug\net8.0\Lekce test.runtimeconfig.json
+C:\Users\S1eeper\source\repos\Lekce test\bin\Debug\net8.0\Lekce test.dll
+C:\Users\S1eeper\source\repos\Lekce test\bin\Debug\net8.0\Lekce test.pdb
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.dll
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\refint\Lekce test.dll
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.pdb
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\Lekce test.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\Lekce test\obj\Debug\net8.0\ref\Lekce test.dll

@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\bin\Debug\net8.0\Druha_lekce.exe
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\bin\Debug\net8.0\Druha_lekce.deps.json
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\bin\Debug\net8.0\Druha_lekce.runtimeconfig.json
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\bin\Debug\net8.0\Druha_lekce.dll
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\bin\Debug\net8.0\Druha_lekce.pdb
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.dll
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\refint\Druha_lekce.dll
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.pdb
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\Druha_lekce.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\Druha_lekce_1\Druha_lekce\obj\Debug\net8.0\ref\Druha_lekce.dll

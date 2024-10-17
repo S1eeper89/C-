@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\cyklus for\bin\Debug\net8.0\cyklus for.exe
+C:\Users\S1eeper\source\repos\cyklus for\bin\Debug\net8.0\cyklus for.deps.json
+C:\Users\S1eeper\source\repos\cyklus for\bin\Debug\net8.0\cyklus for.runtimeconfig.json
+C:\Users\S1eeper\source\repos\cyklus for\bin\Debug\net8.0\cyklus for.dll
+C:\Users\S1eeper\source\repos\cyklus for\bin\Debug\net8.0\cyklus for.pdb
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.dll
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\refint\cyklus for.dll
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.pdb
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\cyklus for.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\cyklus for\obj\Debug\net8.0\ref\cyklus for.dll

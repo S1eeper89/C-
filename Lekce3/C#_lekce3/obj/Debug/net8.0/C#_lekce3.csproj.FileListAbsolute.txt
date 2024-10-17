@@ -1,0 +1,14 @@
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.AssemblyInfoInputs.cache
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.AssemblyInfo.cs
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.csproj.CoreCompileInputs.cache
+C:\Users\S1eeper\source\repos\C#_lekce3\bin\Debug\net8.0\C#_lekce3.exe
+C:\Users\S1eeper\source\repos\C#_lekce3\bin\Debug\net8.0\C#_lekce3.deps.json
+C:\Users\S1eeper\source\repos\C#_lekce3\bin\Debug\net8.0\C#_lekce3.runtimeconfig.json
+C:\Users\S1eeper\source\repos\C#_lekce3\bin\Debug\net8.0\C#_lekce3.dll
+C:\Users\S1eeper\source\repos\C#_lekce3\bin\Debug\net8.0\C#_lekce3.pdb
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.dll
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\refint\C#_lekce3.dll
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.pdb
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\C#_lekce3.genruntimeconfig.cache
+C:\Users\S1eeper\source\repos\C#_lekce3\obj\Debug\net8.0\ref\C#_lekce3.dll

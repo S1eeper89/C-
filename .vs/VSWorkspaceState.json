@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lekce2",
-    "\\Lekce3",
-    "\\Lekce3\\Breakroom2",
-    "\\Lekce3\\Opakov\u00E1n\u00ED_3",
-    "\\Lekce4"
+    "\\Lekce_3",
+    "\\Lekce_3\\Bolean",
+    "\\Lekce_3\\ConsoleApp1",
+    "\\Lekce_3\\Opakov\u00E1n\u00ED_3",
+    "\\Lekce_4",
+    "\\Lekce_4\\cyklus for",
+    "\\Lekce_4\\DU",
+    "\\Lekce_4\\DU_lekce4",
+    "\\Lekce_4\\Lekce4"
   ],
-  "SelectedNode": "\\Lekce3\\Breakroom2\\Program.cs",
+  "SelectedNode": "\\Lekce_3\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
